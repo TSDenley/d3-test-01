@@ -113,7 +113,8 @@
 			.domain([y_min, y_max])
 			.range([vis_height - vis_margins.top, vis_margins.bottom]),
 		x_axis = d3.svg.axis()
-			.scale(x_scale),
+			.scale(x_scale)
+			.tickFormat(d3.format('0f')), // remove the 000's separators
 		y_axis = d3.svg.axis()
 			.scale(y_scale)
 			.orient('left'),
