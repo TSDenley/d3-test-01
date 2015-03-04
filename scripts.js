@@ -47,6 +47,34 @@
 	    "Client": "XYZ",
 	    "sale": "176",
 	    "year": "2013"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "120",
+	    "year": "2000"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "140",
+	    "year": "2004"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "141",
+	    "year": "2006"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "200",
+	    "year": "2007"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "120",
+	    "year": "2008"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "120",
+	    "year": "2009"
+	}, {
+	    "Client": "HIJ",
+	    "sale": "220",
+	    "year": "2013"
 	}];
 
 
@@ -116,7 +144,6 @@
 
 		// Spacing for the graph legend
 		l_space = vis_width/data_group.length;
-
 
 	// Append the axis to the visualisation element
 	// and position them
