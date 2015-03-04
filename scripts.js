@@ -1,80 +1,80 @@
 (function(){
 	var data = [{
 	    "Client": "ABC",
-	    "sale": "202",
-	    "year": "2000"
+	    "sale": 202,
+	    "year": 2000
 	}, {
 	    "Client": "ABC",
-	    "sale": "215",
-	    "year": "2002"
+	    "sale": 215,
+	    "year": 2002
 	}, {
 	    "Client": "ABC",
-	    "sale": "179",
-	    "year": "2004"
+	    "sale": 179,
+	    "year": 2004
 	}, {
 	    "Client": "ABC",
-	    "sale": "199",
-	    "year": "2006"
+	    "sale": 199,
+	    "year": 2006
 	}, {
 	    "Client": "ABC",
-	    "sale": "134",
-	    "year": "2008"
+	    "sale": 134,
+	    "year": 2008
 	}, {
 	    "Client": "ABC",
-	    "sale": "176",
-	    "year": "2010"
+	    "sale": 176,
+	    "year": 2010
 	}, {
 	    "Client": "XYZ",
-	    "sale": "100",
-	    "year": "2000"
+	    "sale": 100,
+	    "year": 2000
 	}, {
 	    "Client": "XYZ",
-	    "sale": "215",
-	    "year": "2002"
+	    "sale": 215,
+	    "year": 2002
 	}, {
 	    "Client": "XYZ",
-	    "sale": "179",
-	    "year": "2004"
+	    "sale": 179,
+	    "year": 2004
 	}, {
 	    "Client": "XYZ",
-	    "sale": "199",
-	    "year": "2006"
+	    "sale": 199,
+	    "year": 2006
 	}, {
 	    "Client": "XYZ",
-	    "sale": "134",
-	    "year": "2008"
+	    "sale": 134,
+	    "year": 2008
 	}, {
 	    "Client": "XYZ",
-	    "sale": "176",
-	    "year": "2013"
+	    "sale": 176,
+	    "year": 2013
 	}, {
 	    "Client": "HIJ",
-	    "sale": "120",
-	    "year": "2000"
+	    "sale": 120,
+	    "year": 2000
 	}, {
 	    "Client": "HIJ",
-	    "sale": "140",
-	    "year": "2004"
+	    "sale": 140,
+	    "year": 2004
 	}, {
 	    "Client": "HIJ",
-	    "sale": "141",
-	    "year": "2006"
+	    "sale": 141,
+	    "year": 2006
 	}, {
 	    "Client": "HIJ",
-	    "sale": "200",
-	    "year": "2007"
+	    "sale": 200,
+	    "year": 2007
 	}, {
 	    "Client": "HIJ",
-	    "sale": "120",
-	    "year": "2008"
+	    "sale": 120,
+	    "year": 2008
 	}, {
 	    "Client": "HIJ",
-	    "sale": "120",
-	    "year": "2009"
+	    "sale": 120,
+	    "year": 2009
 	}, {
 	    "Client": "HIJ",
-	    "sale": "220",
-	    "year": "2013"
+	    "sale": 80,
+	    "year": 2013
 	}];
 
 
